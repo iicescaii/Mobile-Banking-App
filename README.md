@@ -35,18 +35,18 @@
 ### 1.1 Project Goals
 
 * **Accessibility:** Secure mobile banking for new and existing customers.
-* **Security:** Biometric (Fingerprint/FaceID) and PIN-based authentication.
+* **Security:** PIN-based authentication.
 * **Transactions:** Instant fund transfers and utility bill payments.
 
 ### 1.2 Project Scope & Limitations
 
 | Feature | Included |
 | --- | --- |
-| Biometric Login | ✅ |
 | Internal Fund Transfer | ✅ |
 | Bill Payments | ✅ |
 | Interbank Transfer | ❌ |
 | Offline Mode | ❌ |
+| Biometric Login | ❌ |
 
 ---
 
